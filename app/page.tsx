@@ -54,4 +54,3 @@ const Home = async ({ searchParams }: HomeProps) => {
 }
 export default Home
 export const dynamic = 'force-dynamic'
-export const runtime = 'edge' // 'nodejs' (default) | 'edge'
