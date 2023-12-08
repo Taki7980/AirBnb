@@ -1,0 +1,8 @@
+{
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "editor.tabSize": 6,
+  "editor.autoIndent": "full",
+  "workbench.tree.indent": 6,
+  "editor.guides.highlightActiveIndentation": "always"
+}
